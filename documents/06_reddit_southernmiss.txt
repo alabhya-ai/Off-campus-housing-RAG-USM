@@ -1,0 +1,11 @@
+SOURCE: r/southernmiss Subreddit
+SOURCE_ID: 06_reddit_southernmiss
+URL: https://www.reddit.com/r/southernmiss/
+---
+[search 'apartment' failed: HTTP 403 for https://www.reddit.com/r/southernmiss/search.json?q=apartment&restrict_sr=1&sort=relevance&limit=10]
+[search 'off campus housing' failed: HTTP 403 for https://www.reddit.com/r/southernmiss/search.json?q=off+campus+housing&restrict_sr=1&sort=relevance&limit=10]
+[search 'best place to live' failed: HTTP 403 for https://www.reddit.com/r/southernmiss/search.json?q=best+place+to+live&restrict_sr=1&sort=relevance&limit=10]
+[search 'Eagle Flatts' failed: HTTP 403 for https://www.reddit.com/r/southernmiss/search.json?q=Eagle+Flatts&restrict_sr=1&sort=relevance&limit=10]
+[search 'Cottages' failed: HTTP 403 for https://www.reddit.com/r/southernmiss/search.json?q=Cottages&restrict_sr=1&sort=relevance&limit=10]
+[search 'Beverly Hills' failed: HTTP 403 for https://www.reddit.com/r/southernmiss/search.json?q=Beverly+Hills&restrict_sr=1&sort=relevance&limit=10]
+[search 'Westgate' failed: HTTP 403 for https://www.reddit.com/r/southernmiss/search.json?q=Westgate&restrict_sr=1&sort=relevance&limit=10]

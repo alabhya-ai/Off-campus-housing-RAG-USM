@@ -1,0 +1,9 @@
+SOURCE: Reddit Universal Search (Hattiesburg renting)
+SOURCE_ID: 10_reddit_search_renting_hattiesburg
+URL: https://www.reddit.com/search/?q=renting+hattiesburg
+---
+[search 'renting hattiesburg' failed: HTTP 403 for https://www.reddit.com/search.json?q=renting+hattiesburg&sort=relevance&limit=15&type=link]
+[search 'tenant rights mississippi' failed: HTTP 403 for https://www.reddit.com/search.json?q=tenant+rights+mississippi&sort=relevance&limit=15&type=link]
+[search 'landlord hattiesburg' failed: HTTP 403 for https://www.reddit.com/search.json?q=landlord+hattiesburg&sort=relevance&limit=15&type=link]
+[search 'lease hattiesburg' failed: HTTP 403 for https://www.reddit.com/search.json?q=lease+hattiesburg&sort=relevance&limit=15&type=link]
+[search 'apartment scam hattiesburg' failed: HTTP 403 for https://www.reddit.com/search.json?q=apartment+scam+hattiesburg&sort=relevance&limit=15&type=link]

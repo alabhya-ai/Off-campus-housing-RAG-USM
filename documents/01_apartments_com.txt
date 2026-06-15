@@ -1,0 +1,6 @@
+SOURCE: Apartments.com (USM Off-Campus)
+SOURCE_ID: 01_apartments_com
+URL: https://www.apartments.com/off-campus-housing/ms/hattiesburg/the-university-of-southern-mississippi/
+---
+[fetch failed: HTTP 403 for https://www.apartments.com/off-campus-housing/ms/hattiesburg/the-university-of-southern-mississippi/]
+Apartments.com aggressively blocks unauthenticated scraping.

@@ -1,0 +1,9 @@
+SOURCE: r/hattiesburg Subreddit
+SOURCE_ID: 05_reddit_hattiesburg
+URL: https://www.reddit.com/r/hattiesburg/
+---
+[search 'USM apartment' failed: HTTP 403 for https://www.reddit.com/r/hattiesburg/search.json?q=USM+apartment&restrict_sr=1&sort=relevance&limit=10]
+[search 'moving here apartment' failed: HTTP 403 for https://www.reddit.com/r/hattiesburg/search.json?q=moving+here+apartment&restrict_sr=1&sort=relevance&limit=10]
+[search 'apartment suggestion' failed: HTTP 403 for https://www.reddit.com/r/hattiesburg/search.json?q=apartment+suggestion&restrict_sr=1&sort=relevance&limit=10]
+[search 'rent Hattiesburg' failed: HTTP 403 for https://www.reddit.com/r/hattiesburg/search.json?q=rent+Hattiesburg&restrict_sr=1&sort=relevance&limit=10]
+[search 'pet friendly apartment' failed: HTTP 403 for https://www.reddit.com/r/hattiesburg/search.json?q=pet+friendly+apartment&restrict_sr=1&sort=relevance&limit=10]

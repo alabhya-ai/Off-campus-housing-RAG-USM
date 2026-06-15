@@ -1,0 +1,5 @@
+SOURCE: USM Off-Campus Housing Portal
+SOURCE_ID: 08_usm_offcampus_portal
+URL: https://www.usmoffcampushousing.com/housing
+---
+[fetch failed: HTTP 403 for https://www.usmoffcampushousing.com/housing]

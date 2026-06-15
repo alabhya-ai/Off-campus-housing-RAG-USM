@@ -16,5 +16,29 @@ env/
 chroma_db/
 chroma/
 
+# Hugging Face cache (if anything lands inside the repo)
+.cache/
+huggingface/
+
+# Gradio runtime artifacts
+gradio_cached_examples/
+flagged/
+
+# Logs
+*.log
+
+# Editors / IDEs
+.vscode/
+.idea/
+*.swp
+
+# Test / lint caches
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
 # macOS
 .DS_Store
+
+# Assignment reference (not part of the deliverable)
+MileStones.pdf

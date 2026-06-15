@@ -1,0 +1,5 @@
+SOURCE: ForRentUniversity (USM Portal)
+SOURCE_ID: 09_forrentuniversity_usm
+URL: https://www.forrentuniversity.com/The-University-of-Southern-Mississippi
+---
+[fetch failed: HTTP 403 for https://www.forrentuniversity.com/The-University-of-Southern-Mississippi]
